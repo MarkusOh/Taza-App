@@ -1,10 +1,3 @@
-//
-//  Taza_App.swift
-//  Taza-App
-//
-//  Created by Seungsub Oh on 2/26/24.
-//
-
 import SwiftUI
 import SwiftData
 
